@@ -1,0 +1,232 @@
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\bin\virtual library.dll
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\bin\virtual library.pdb
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\bin\virtual library.xml
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\obj\Debug\ResolveAssemblyReference.cache
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\obj\Debug\virtual_library.Resources.resources
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\obj\Debug\GenerateResource.read.1.tlog
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\obj\Debug\GenerateResource.write.1.tlog
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\obj\Debug\virtual library.dll
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\obj\Debug\virtual library.xml
+c:\users\as\documents\visual studio 2010\Projects\virtual library\virtual library\obj\Debug\virtual library.pdb
+C:\Users\rinkal\Desktop\virtual library\virtual library\bin\virtual library.dll
+C:\Users\rinkal\Desktop\virtual library\virtual library\bin\virtual library.pdb
+C:\Users\rinkal\Desktop\virtual library\virtual library\bin\virtual library.xml
+C:\Users\rinkal\Desktop\virtual library\virtual library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rinkal\Desktop\virtual library\virtual library\obj\Debug\virtual_library.Resources.resources
+C:\Users\rinkal\Desktop\virtual library\virtual library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rinkal\Desktop\virtual library\virtual library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rinkal\Desktop\virtual library\virtual library\obj\Debug\virtual library.dll
+C:\Users\rinkal\Desktop\virtual library\virtual library\obj\Debug\virtual library.xml
+C:\Users\rinkal\Desktop\virtual library\virtual library\obj\Debug\virtual library.pdb
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\bin\virtual library.dll
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\bin\virtual library.pdb
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\bin\virtual library.xml
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\obj\Debug\virtual_library.Resources.resources
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\obj\Debug\virtual library.dll
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\obj\Debug\virtual library.xml
+C:\Users\rinkal\Downloads\Desktop\virtual library\virtual library\obj\Debug\virtual library.pdb
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\bin\virtual library.dll
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\bin\virtual library.pdb
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\bin\virtual library.xml
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\obj\Debug\virtual_library.Resources.resources
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\obj\Debug\virtual library.dll
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\obj\Debug\virtual library.xml
+C:\Users\rinkal\Downloads\virtual library\virtual library\virtual library\obj\Debug\virtual library.pdb
+D:\1.rinkal\0virtual library\virtual library\bin\virtual library.dll
+D:\1.rinkal\0virtual library\virtual library\bin\virtual library.pdb
+D:\1.rinkal\0virtual library\virtual library\bin\virtual library.xml
+D:\1.rinkal\0virtual library\virtual library\obj\Debug\ResolveAssemblyReference.cache
+D:\1.rinkal\0virtual library\virtual library\obj\Debug\virtual_library.Resources.resources
+D:\1.rinkal\0virtual library\virtual library\obj\Debug\GenerateResource.read.1.tlog
+D:\1.rinkal\0virtual library\virtual library\obj\Debug\GenerateResource.write.1.tlog
+D:\1.rinkal\0virtual library\virtual library\obj\Debug\virtual library.dll
+D:\1.rinkal\0virtual library\virtual library\obj\Debug\virtual library.xml
+D:\1.rinkal\0virtual library\virtual library\obj\Debug\virtual library.pdb
+D:\1.rinkal\0virtual library\virtual library\bin\Microsoft.WindowsAzure.Storage.dll
+D:\1.rinkal\0virtual library\virtual library\bin\HtmlAgilityPack.dll
+D:\1.rinkal\0virtual library\virtual library\bin\AjaxMin.dll
+D:\1.rinkal\0virtual library\virtual library\bin\AjaxControlToolkit.pdb
+D:\1.rinkal\0virtual library\virtual library\bin\Microsoft.WindowsAzure.Storage.xml
+D:\1.rinkal\0virtual library\virtual library\bin\ar\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\cs\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\de\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\es\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\fr\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\he\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\hi\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\it\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\ja\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\ko\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\nl\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\pl\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\pt\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\ru\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\1.rinkal\0virtual library\virtual library\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\virtual library.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\virtual library.pdb
+C:\Users\rinkal\Downloads\test\virtual library\bin\virtual library.xml
+C:\Users\rinkal\Downloads\test\virtual library\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\HtmlAgilityPack.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\AjaxMin.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\AjaxControlToolkit.pdb
+C:\Users\rinkal\Downloads\test\virtual library\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\rinkal\Downloads\test\virtual library\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Downloads\test\virtual library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rinkal\Downloads\test\virtual library\obj\Debug\virtual_library.Resources.resources
+C:\Users\rinkal\Downloads\test\virtual library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rinkal\Downloads\test\virtual library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rinkal\Downloads\test\virtual library\obj\Debug\virtual library.dll
+C:\Users\rinkal\Downloads\test\virtual library\obj\Debug\virtual library.xml
+C:\Users\rinkal\Downloads\test\virtual library\obj\Debug\virtual library.pdb
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\virtual library.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\virtual library.pdb
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\virtual library.xml
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\HtmlAgilityPack.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\AjaxMin.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\AjaxControlToolkit.pdb
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rinkal\Documents\Desktop\test\virtual library\obj\Debug\virtual_library.Resources.resources
+C:\Users\rinkal\Documents\Desktop\test\virtual library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rinkal\Documents\Desktop\test\virtual library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rinkal\Documents\Desktop\test\virtual library\obj\Debug\virtual library.dll
+C:\Users\rinkal\Documents\Desktop\test\virtual library\obj\Debug\virtual library.xml
+C:\Users\rinkal\Documents\Desktop\test\virtual library\obj\Debug\virtual library.pdb
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\virtual library.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\virtual library.pdb
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\virtual library.xml
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\HtmlAgilityPack.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\AjaxMin.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\AjaxControlToolkit.pdb
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\as\Desktop\rinkalvl\test\virtual library\obj\Debug\virtual_library.Resources.resources
+C:\Users\as\Desktop\rinkalvl\test\virtual library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\as\Desktop\rinkalvl\test\virtual library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\as\Desktop\rinkalvl\test\virtual library\obj\Debug\virtual library.dll
+C:\Users\as\Desktop\rinkalvl\test\virtual library\obj\Debug\virtual library.xml
+C:\Users\as\Desktop\rinkalvl\test\virtual library\obj\Debug\virtual library.pdb
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\virtual library.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\virtual library.pdb
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\virtual library.xml
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\HtmlAgilityPack.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\AjaxMin.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\AjaxControlToolkit.pdb
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\obj\Debug\virtual_library.Resources.resources
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\obj\Debug\virtual library.dll
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\obj\Debug\virtual library.xml
+C:\Users\rinkal\Documents\Desktop\0VL\virtual library\obj\Debug\virtual library.pdb
+C:\Users\as\Desktop\0VL\virtual library\bin\virtual library.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\virtual library.pdb
+C:\Users\as\Desktop\0VL\virtual library\bin\virtual library.xml
+C:\Users\as\Desktop\0VL\virtual library\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\HtmlAgilityPack.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\AjaxMin.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\AjaxControlToolkit.pdb
+C:\Users\as\Desktop\0VL\virtual library\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\as\Desktop\0VL\virtual library\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\as\Desktop\0VL\virtual library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\as\Desktop\0VL\virtual library\obj\Debug\virtual_library.Resources.resources
+C:\Users\as\Desktop\0VL\virtual library\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\as\Desktop\0VL\virtual library\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\as\Desktop\0VL\virtual library\obj\Debug\virtual library.dll
+C:\Users\as\Desktop\0VL\virtual library\obj\Debug\virtual library.xml
+C:\Users\as\Desktop\0VL\virtual library\obj\Debug\virtual library.pdb

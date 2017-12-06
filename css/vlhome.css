@@ -1,0 +1,195 @@
+body
+{
+    width:1365px;
+    margin: 0px;
+    padding: 0px;
+    color: #000;
+    font-family: Georgia, "Times New Roman" , Times, serif;
+    font-size: 12px;
+    line-height: 1.5em;
+    background-image: url('../image/(PNG Image, 1x18 pixels).png');
+    background-repeat: repeat-x;
+}
+
+
+#invalidlogin
+{
+    color: #666666;
+    position: absolute;
+    top: 50px;
+    left: 1194px;
+    height: 45px;
+    width: 136px;
+   
+}
+
+
+#indexheader
+{ 
+    width: 1365px;
+    clear: both;
+  background-image: url('../image/index.jpg');
+    background-repeat: repeat-x;
+     height: 165px;
+}
+
+#header_middle { 
+	width: 940px;
+	height: 100px;
+	padding: 0px;
+	margin: 0 auto;
+}
+
+#main
+{
+    padding: 0px;
+    margin: 0px;
+    height: 535px;
+    width: 100%;
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+
+#footer
+{
+    width: 1365px;
+    background-image: url('../image/(PNG%20Image,%201x35%20pixels).png');
+    background-repeat: repeat-x;
+    position: absolute;
+    height: 30px;
+    clear: both;
+    bottom: 0px;
+    text-align: center;
+}
+
+#logo
+{
+    font-size:85px;
+    width: 242px;
+    height: 54px;
+    text-align: left;
+    top: 61px;
+    left: 20px;
+    font-family: chiller;
+    position: absolute;
+}
+
+#login
+{
+   
+    color: #666666;
+ position: absolute;
+    top: 50px;
+    left: 850px;
+    height: 45px;
+    width: 340px;
+}
+
+.login_comp
+{
+    border-left: 1px solid rgb(205, 204, 200);
+    border-right: 1px solid rgb(203, 202, 198);
+    border-top: 1px solid rgb(168, 174, 172);
+    border-bottom: 1px solid rgb(227, 223, 221);
+    padding: 2px 2px;
+    border-radius: 3px;
+    
+  
+}
+
+#signup
+{
+    float: right;
+  /*  background-color: rgb(244, 242, 233);*/
+  background-color: #f4f2e9;
+    position: absolute;
+    top: 29px;
+    left: 850px;
+    width: 280px;
+    height: 244px;
+    font-family: arial,verdana,helvetica,sans-serif;
+    line-height: 5px;
+    font-size: 18px;
+}
+
+
+
+
+
+.CustomValidatorCalloutStyle div, .CustomValidatorCalloutStyle td
+{
+    border: 1px solid #808080;
+    background-color: rgb(244, 242, 233);
+  
+}
+
+.signup_comp
+{
+    border-left: 1px solid rgb(205, 204, 200);
+    border-right: 1px solid rgb(203, 202, 198);
+    border-top: 1px solid rgb(168, 174, 172);
+    border-bottom: 1px solid rgb(227, 223, 221);
+    padding: 7px 5px;
+    border-radius: 3px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: lighter;
+    color: #808080;
+    text-align: left;
+}
+
+
+
+.signupbtn
+{
+     border-width: 1px;
+    border-style: solid;
+    border-color: rgb(168, 174, 172) rgb(203, 202, 198) rgb(227, 223, 221) rgb(205, 204, 200);
+    border-radius: 3px;
+     margin: 0px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.mainhighratebooks
+{
+    background-position: center bottom;
+    background-color: rgb(244, 242, 233);
+    height: 200px;
+    width: 650;
+    left: 140px;
+    position: absolute;
+    top: 29px;
+    background-image: url('../image/a.png'); 
+    background-repeat: repeat-x;
+}
+
+
+.mainnewavailablebooks
+{
+    background-position: center bottom;
+    background-color: rgb(244, 242, 233);
+    height: 200px;
+    width: 650px;
+    left: 140px;
+    position: absolute;
+    top: 247px;
+    background-image: url('../image/a.png');
+    background-repeat: repeat-x;
+}
+
+
+.table_highrart_new_avail_r2
+{
+    height: 100px;
+    width: 85px;
+  
+}
+
+.table_highrart_new_avail_r1
+{
+    height: 10px;
+    width: 85px;
+   
+}

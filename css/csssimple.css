@@ -1,0 +1,437 @@
+﻿/*css for interest like page*/
+
+.nextbtn
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(168, 174, 172) rgb(203, 202, 198) rgb(227, 223, 221) rgb(205, 204, 200);
+    border-radius: 3px;
+    margin: 20px;
+    font-size: 16px;
+    font-weight: lighter;
+    background-color: #0066FF;
+    position: absolute;
+    top: 420px;
+    left: 990px;
+   
+}
+
+.mainform
+{
+    margin-top: 15px;
+    width: 910px;
+    text-align: left;
+    height: 290px;
+    background-color: #f4f2e9;
+    position: absolute;
+    top: 110px;
+    left: 220px;
+}
+
+#main_for_interest
+{  padding: 0px;
+    margin: 0px;
+    height: 580px;
+    width: 100%;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+}
+/* css for user detail feelup page*/
+
+
+body 
+{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+#main
+{
+
+    margin: 0px;
+    height: 720px;
+    width: 100%;
+    position: absolute;
+    top: 40px;
+    left: 0px;
+ 
+}
+
+
+
+#indexheader
+{
+ width: 1350px;
+    height: 50px;
+    background-image: url('../image/(JPEG Image, 1 × 64 pixels).jpg');
+    background-repeat: repeat-x;
+    border-bottom: 1px solid rgb(227, 223, 201);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(227, 223, 201);
+    color: rgb(56, 33, 16);
+    clear: both;
+}
+
+
+
+#footer
+{
+    width: 1350px;
+     background-image: url('../image/(PNG Image, 1x35 pixels).png');
+    background-repeat: repeat-x;
+    position: absolute;
+    height: 70px;
+   
+    bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+#logo
+{ 
+    font-size:70px;
+    width: 242px;
+    height: 50px;
+    text-align: left;
+    top: 0px;
+    left: 20px;
+    font-family: chiller;
+    position: absolute;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*style for user information feel up */
+
+
+
+   .mainsection
+{
+    
+    margin-top: 40px;
+    width: 950px;
+    height: 580px;
+    left: 205px;
+    position: absolute;
+    background-color: rgb(244, 242, 233);
+  border-radius: 7px;
+    box-shadow: 0px 1px 1px 0px rgb(208, 208, 200);
+
+}
+    
+    .profileimage
+{
+    position: absolute;
+    width: 90px;
+    height: 110px;
+    top: 31px;
+    left: 29px;
+    
+}
+
+
+.imageupload
+{
+    
+    position: absolute;
+    width: 87px;
+    height: auto;
+    top: 150px;
+    left: 29px;
+}
+
+.info
+{
+    position: absolute;
+    width: 60%;
+    right: 20%;
+    left: 20%;
+    height: 70%;
+    top: 27%;
+    bottom: 3%;
+    font-size: large;
+}
+
+
+.fillcomponent
+{
+     border-left: 1px solid rgb(205, 204, 200);
+    border-right: 1px solid rgb(203, 202, 198);
+    border-top: 1px solid rgb(168, 174, 172);
+    border-bottom: 1px solid rgb(227, 223, 221);
+    padding: 2px 2px;
+    border-radius: 3px;
+     background-color:  rgb(244, 242, 233);
+}
+
+     
+    
+    
+        .style2
+        {
+            width: 100%;
+        }
+        .style3
+        {
+            width: 72px;
+            text-align: left;
+        }
+        .style4
+        {
+            text-align: right;
+        }
+    
+    
+     
+    
+    
+        .style5
+        {
+            width: 72px;
+            height: 29px;
+            text-align: left;
+        }
+        .style6
+        {
+            height: 29px;
+            width: 225px;
+        }
+        .style7
+        {
+            width: 225px;
+        }
+    
+    
+.submitbtn
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(168, 174, 172) rgb(203, 202, 198) rgb(227, 223, 221) rgb(205, 204, 200);
+    border-radius: 3px;
+    margin: 20px;
+    font-size: 16px;
+    font-weight: lighter;
+    background-color: #0066FF;
+    position: absolute;
+    top: 350px;
+    left: 620px;
+   
+}
+
+
+
+.CustomValidatorCalloutStyle div, .CustomValidatorCalloutStyle td
+{
+    border: 1px solid #808080;
+    background-color: rgb(244, 242, 233);
+  
+}
+
+
+
+
+
+/* css for userown profile page */
+
+
+#indexheader1
+{
+    clear: both;
+    width: 1350px;
+    background-image: url('../image/index1.jpg');
+    background-repeat: repeat-x;
+    height: 100px;
+}
+
+
+
+#logo1
+{
+    font-size:70px;
+    width: 242px;
+    height: 50px;
+    text-align: left;
+    top: 20px;
+    left: 20px;
+    font-family: chiller;
+    position: absolute;
+}
+
+
+
+
+
+#body1
+{
+    
+ background-image: url('../image/tan-bg-texture.jpg');
+    background-repeat: repeat;
+    height: 630px;
+    width: 1350px;
+ 
+} 
+#main1
+{
+    padding: 0px;
+    margin: 0px;
+    height: 690px;
+    width: 100%;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+
+}
+  .mainsection1
+{
+    margin-top: 30px;
+    width: 950px;
+    height: 560px;
+    left: 205px;
+    position: absolute;
+    border-radius: 7px;
+    box-shadow: 0px 1px 1px 0px rgb(208, 208, 200);
+    background-color: #FFFFFF;
+}
+        
+ .userslike
+{
+    width: 180px;
+    height: 490px;
+
+    background-color: rgb(228, 244, 218);
+    border: 1px solid rgb(193, 211, 184);
+    line-height: 10px;
+    background-image: url('../../image/aa.png');
+    background-position: center top;
+    background-repeat: repeat-x;
+    text-align: center;
+    font-family: Calibri;
+    color: #666666;
+    position: absolute;
+    top: 31px;
+    left: 710px;
+}
+   
+  .profileimage1
+{
+    position: absolute;
+    width: 90px;
+    height: 110px;
+    top: 31px;
+    left: 29px;
+    
+}
+
+.info1
+{
+    position: absolute;
+    width: 55%;
+    right: 27%;
+    left: 18%;
+    height: 70%;
+    top: 25%;
+    bottom: 5%;
+    font-size: 18px;
+    color: #666666;
+}
+
+#footer1
+{
+    width: 1350px;
+    background-image: url('../image/(PNG Image, 1x35 pixels).png');
+    background-repeat: repeat-x;
+    position: absolute;
+    height: 70px;
+    bottom: 0px;
+    background-color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#homelink
+{
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    top: 38px;
+    left: 1136px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+        .style9
+{
+    width: 350px;
+    height: 100px;
+    position: absolute;
+    table-layout: auto;
+    float: left;
+    top: 426px;
+    left: 164px;
+}
+
+.screenname
+{
+    
+    position: absolute;
+    width: 87px;
+    height: auto;
+    top: 150px;
+    left: 29px;
+}
+
+
+
+
+
+    .gridviewdiaplay
+    {
+    
+    width: 80%;
+    height: 90%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    }

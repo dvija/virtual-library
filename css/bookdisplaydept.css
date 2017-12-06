@@ -1,0 +1,97 @@
+﻿body
+{margin:0px;
+ padding:0px;
+}
+#logo
+{
+    font-size:70px;
+    width: 242px;
+    height: 50px;
+    text-align: left;
+    top: 25px;
+    left: 20px;
+    font-family: chiller;
+    position: absolute;
+}
+#main
+{
+    padding: 0px;
+    margin: 0px;
+    height: 1200px;
+    width: 1350px;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+   
+}
+
+.proimage
+{
+    position: absolute;
+    top: 29px;
+    left: 1186px;
+    width: 40px;
+    height: 44px;
+
+}
+
+#indexheader
+{
+    clear: both;
+    width: 1350px;
+    background-image: url('../image/index1.jpg');
+    background-repeat: repeat-x;
+    height: 100px;
+}
+
+#footer
+{
+    width: 1350px;
+    background-image: url('../image/(PNG Image, 1x35 pixels).png');
+    background-repeat: repeat-x;
+    position: absolute;
+    height: 70px;
+    bottom: 0px;
+    background-color: #FFFFFF;
+}
+
+.subject
+{
+    top: 24px;
+    left: 20%;
+    position: absolute;
+    width: 75%;
+    height: 44px;
+     background-color: #f4f2e9;
+    right: 5%;
+    font-size: 40px;
+    font-family: 'times New Roman' , Times, serif;
+    color: #CA942F;
+     padding-left: 20px;
+}
+
+.books
+{
+    top: 80px;
+    left: 20%;
+    position: absolute;
+    width: 75%;
+    height: 1018px;
+    background-color: #E4F4DA;
+    right: 5%;
+    font-size: 20px;
+    font-family: 'times New Roman' , Times, serif;
+    color: #CA942F;
+    padding-left: 20px;
+}
+
+
+#homelink
+{
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    top: 38px;
+    left: 1136px;
+ 
+}

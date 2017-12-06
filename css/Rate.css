@@ -1,0 +1,153 @@
+﻿
+body 
+{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+#indexheader
+{
+    clear: both;
+    width: 1350px;
+    background-image: url('../image/index1.jpg');
+    background-repeat: repeat-x;
+    height: 100px;
+}
+
+
+
+#logo
+{
+    font-size:70px;
+    width: 242px;
+    height: 50px;
+    text-align: left;
+    top: 20px;
+    left: 20px;
+    font-family: chiller;
+    position: absolute;
+}
+
+
+#b1
+{
+    background-image: url('../image/tan-bg-texture.jpg');
+    background-repeat: repeat;
+    width: 1350px;
+    background-color: #008080;
+} 
+
+#main
+{
+    padding: 0px;
+    margin: 0px;
+    height: 1200px;
+    width: 100%;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    
+}
+
+
+#mainforbookread
+{
+    padding: 0px;
+    margin: 0px;
+    height: 950px;
+    width: 100%;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    
+}
+
+
+
+
+.ratingStar
+{
+  
+    font-size: 0pt;
+    width: 13px;
+    height: 12px;
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+    display: block;
+    background-repeat: no-repeat;
+} 
+.filledRatingStar 
+{ 
+    background-image: url(../image/FilledStar.png); 
+} 
+.emptyRatingStar 
+{ 
+    background-image: url(../image/EmptyStar.png); 
+} 
+.savedRatingStar 
+{ 
+    background-image: url(../image/SavedStar.png); 
+}
+
+#footer
+{
+    width: 1350px;
+    background-image: url('../image/(PNG Image, 1x35 pixels).png');
+    background-repeat: repeat-x;
+    position: absolute;
+    height: 30px;
+    bottom: 0px;
+    background-color: #FFFFFF;
+}
+
+
+#homelink
+{
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    top: 40px;
+    left: 1180px;
+ 
+}
+
+#bookdescription
+{ margin-top: 10px;
+    background-color: #E4F4DA;
+    position: absolute;
+    left: 113px;
+    top: 38px;
+    width: 306px;
+    height: 650px;
+   
+   line-height: 10px;
+    background-image: url('../../image/aa.png');
+    background-position: center top;
+    background-repeat: repeat-x;
+    font-family: Calibri;
+    color: #666666;
+
+}
+
+.mainsection
+{
+    margin-top: 10px;
+    width: 787px;
+    height:850px;
+    left: 448px;
+    position: absolute;
+    background-color: #808000;
+    top: 38px;
+}
+
+#bookimage
+{
+  
+    position: absolute;
+    top: 58px;
+    left: 5px;
+    width: 146px;
+    height: 170px;
+}

@@ -1,0 +1,262 @@
+﻿body
+{
+    margin: 0px;
+    padding: 0px;
+    color: #000;
+    font-family: Georgia, "Times New Roman" , Times, serif;
+    font-size: 12px;
+    line-height: 1.5em;
+    background-image: url('../image/(PNG Image, 1x18 pixels).png');
+     
+    background-repeat: repeat-x;
+}
+
+
+
+#indexheader
+{
+    clear: both;
+    width: 1365px;
+    background-image: url('../image/index.jpg');
+    background-repeat: repeat-x;
+    height: 166px;
+}
+
+
+#header_middle { 
+	width: 1174px;
+	height: 100px;
+	padding: 40px 40px 0 40px;
+	margin: 0 auto;
+}
+
+#footer
+{
+    width: 1365px;
+     background-image: url('../image/(PNG Image, 1x35 pixels).png');
+    background-repeat: repeat-x;
+    position: absolute;
+    height: 30px;
+    clear: both;
+    bottom: 0px;
+}
+
+#main
+{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    height: 1000px;
+   
+}
+
+
+#userhomemain
+{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    height: 1000px;
+     background-image: url('../image/tan-bg-texture.jpg');
+   
+}
+
+#logo
+{
+    font-size:70px;
+    width: 242px;
+    height: 50px;
+    text-align: left;
+    top: 60px;
+    left: 20px;
+    font-family: chiller;
+    position: absolute;
+}
+
+#logo1
+{
+    font-size:70px;
+    width: 242px;
+    height: 29px;
+    text-align: left;
+    top: 39px;
+    left: 20px;
+    font-family: chiller;
+    position: absolute;
+}
+
+
+
+
+#menu
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 25px;
+    left: 1164px;
+    font-family: 'times New Roman' , Times, serif;
+    font-size: 18px;
+    color: #800000;
+
+} 
+
+
+#friendreq
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 28px;
+    left: 985px;
+
+}
+#proimage
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 27px;
+    left: 1124px;
+ 
+}
+
+#notification
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 28px;
+    left: 1024px;
+
+}
+
+#msgbox
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 26px;
+    left: 1065px;
+}
+
+ #showserchedbooks
+{
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    top: 300px;
+    left: 292px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*book notification page*/
+
+
+#logobooknotification
+{
+    font-size:70px;
+    width: 242px;
+    height: 29px;
+    text-align: left;
+    top: 59px;
+    left: 20px;
+    font-family: chiller;
+    position: absolute;
+    right: 1105px;
+}
+
+
+
+
+#menubooknotification
+{
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    top: 53px;
+    left: 1157px;
+    font-family: 'times New Roman' , Times, serif;
+    font-size: 18px;
+    color: #800000;
+
+} 
+
+
+#friendreqbooknotification
+
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 50px;
+    left: 985px;
+
+}
+#proimagebooknotification
+
+{
+    position: absolute;
+    width: 40px;
+    height: 46px;
+    top: 49px;
+    left: 1124px;
+ 
+}
+
+#notificationbooknotification
+
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 50px;
+    left: 1024px;
+
+}
+
+#msgboxbooknotification
+
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 50px;
+    left: 1065px;
+}
+
+
+
+#viewnotifications
+{
+    position: absolute;
+    width: 295px;
+    height: 40px;
+    top: 198px;
+    left: 82px;
+}
+
+
+
+
+
+
+
+

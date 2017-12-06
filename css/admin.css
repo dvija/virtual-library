@@ -1,0 +1,158 @@
+﻿
+body
+{
+    margin: 0px;
+    padding: 0px;
+    color: #000;
+    font-family: Georgia, "Times New Roman" , Times, serif;
+    font-size: 12px;
+    line-height: 1.5em;
+    background-image: url('../image/tan-bg-texture.jpg');
+    background-repeat: repeat;
+    width: 1365px;
+    
+ }
+
+#indexheader
+{ 
+    width: 1365px;
+    clear: both;
+height: 165px;
+}
+#main
+{
+    padding: 0px;
+    margin: 0px;
+    height: 660px;
+    width: 1365px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  
+}
+
+#middle_wrapper
+{
+    clear: both;
+    width: 100%;
+    background-image: url('../image/adminheader.PNG');
+    background-repeat: repeat-x;
+} 
+
+#header { 
+	height: 90px;
+
+}  
+#middle { 
+	width: 940px;
+	height: 90px;
+	padding: 0px 0px 0 40px;
+	margin: 0 auto;
+}
+#footer
+{
+    background-image: url('../image/bookrow.jpg');
+    width: 1365px;
+    background-repeat: repeat-x;
+    position: absolute;
+    background-color: #f4f2e9;
+    bottom: 0px;
+    height: 60px;
+
+}
+
+
+.logo
+{
+    font-size: 50px;
+    width: 347px;
+    height: 81px;
+   
+}
+
+
+
+
+.CustomValidatorCalloutStyle div, .CustomValidatorCalloutStyle td
+{
+    border: 1px solid #808080;
+    background-color: rgb(244, 242, 233);
+  
+}
+
+
+
+.ccode
+{
+    position: absolute;
+    margin: auto;
+    clear: left;
+    height: 190px;
+    border: solid 1px #993333;
+    border: 1px solid rgb(208, 208, 200);
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0px 1px 1px 0px rgb(208, 208, 200);
+    width: 550px;
+    text-align: center;
+    top: 192px;
+    left: 409.8px;
+}
+
+
+#adminloginblock
+{
+    position: absolute;
+    clear: left;
+    height: 305px;
+     width: 550px;
+    text-align: center;
+    top: 140px;
+    left: 410px;
+}
+
+#addbookmain
+{
+    padding: 0px;
+    margin: 0px;
+    height: 800px;
+    width: 1365px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  
+}
+
+#deletmain
+{
+    padding: 0px;
+    margin: 0px;
+    height: 950px;
+    width: 1365px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  
+}
+
+#homelink
+{
+    height: 25px;
+    width: 42px;
+    position: absolute;
+    top: 12px;
+    left: 1155px;
+   
+}
+
+#updatebookmain
+{
+    padding: 0px;
+    margin: 0px;
+    height: 980px;
+    width: 1365px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  
+}
